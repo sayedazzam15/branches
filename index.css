@@ -1,3 +1,7 @@
 .navbar {
   background: purple;
 }
+
+#carouselExample {
+  padding: 1.2rem;
+}
